@@ -1,0 +1,20 @@
+.pending{
+    display: inline-block;
+    color: #100f0f;
+    background: #f6e024;
+    border-radius: 6px;
+    padding: 5px;
+    margin: 9px 0 0 0;
+}
+.DeleteProduct{
+    color: rgb(159, 13, 13);
+    font-size: 21px;
+    cursor: pointer;
+    padding: 0 7px;
+}
+
+.AcceptProduct{
+    color: rgb(20, 167, 44);
+    font-size: 21px;
+    cursor: pointer;
+}

@@ -1,0 +1,94 @@
+<div class="cart-container">
+  <div class="cart-overview js-cart">
+    <div>
+      <div>
+        <div class="row orderContainer">
+          <div class="col-md-11 TabelHolder">
+
+            <div class="main-title">
+              <label>Order details ({{ cartItems?.length || 0 }} items)</label>
+            </div>
+
+            <table class="table">
+              <tbody>
+                <tr *ngFor="let item of cartItems">
+                  <td class="text-center">
+                    <img 
+                      [src]="'https://localhost:7231' + item.images[0].src" 
+                      [alt]="item.title_EN" 
+                      width="100" 
+                      height="100" 
+                      class="img-fluid" 
+                    />
+                  </td>
+                  <td class="text-center">
+                    <p>Product Name</p>
+                    {{ item.title_EN }}
+                  </td>
+                  <td class="text-center">
+                    <p>Product Quantity</p>
+                    <div>{{ item.quantity }}</div>
+                  </td>
+                  <td class="text-center">
+                    <p>Product Price</p>
+                    <div>{{ item.price | currency:'INR' }}</div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <div
+            class="main-title"
+            style="font-size: 3em; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;"
+          >
+            <label class="totalPrice" style="flex: 1; min-width: 200px;">
+              Total Price: {{ totalPrice | currency:'INR' }}
+            </label>
+          
+            <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap; min-width: 300px;">
+          
+              <!-- Place Order Button -->
+              <button (click)="placeOrder()" class="showAll" style="white-space: nowrap;">
+                Place Order
+              </button>
+          
+              <!-- Customer Details Inputs -->
+              <input
+                type="text"
+                [(ngModel)]="customerName"
+                placeholder="Name"
+                style="padding: 8px; font-size: 1rem; width: 150px;"
+              />
+              <input
+                type="email"
+                [(ngModel)]="customerEmail"
+                placeholder="Email"
+                style="padding: 8px; font-size: 1rem; width: 180px;"
+              />
+              <input
+                type="tel"
+                [(ngModel)]="customerPhone"
+                placeholder="Phone"
+                style="padding: 8px; font-size: 1rem; width: 130px;"
+              />
+          
+              <!-- Pay Now Button -->
+              <button (click)="payNow()" class="showAll" style="white-space: nowrap;">
+                Pay Now
+              </button>
+          
+            </div>
+          </div>
+          
+          
+
+            <!-- Payment success message -->
+            <div *ngIf="paymentSuccess" style="margin-top: 20px; color: green; font-weight: bold;">
+              Payment successful! Thank you for your order.
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

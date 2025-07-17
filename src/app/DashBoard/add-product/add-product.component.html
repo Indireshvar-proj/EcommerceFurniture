@@ -1,0 +1,69 @@
+<form class="container p-5 m-auto" style="width: 60%;">
+  <h1 style="text-align: center; font-weight: 900;"> Add Product</h1>
+  <div class="form-group">
+    <label for="title_EN">Title </label>
+    <input type="text" class="form-control" id="title_EN" name="title_EN" [(ngModel)]="productToAdd.title_EN">
+    <div *ngIf="isValidated &&  productToAdd.title_EN.length <= 0" class="invalid-data">this field is required!</div>
+  </div>
+  <div class="form-group">
+    <label for="title_AR">Title  </label>
+    <input type="text" class="form-control" id="title_AR" name="title_AR" [(ngModel)]="productToAdd.title_AR">
+    <div *ngIf="isValidated && productToAdd.title_AR.length <= 0" class="invalid-data">this field is required!</div>
+  </div>
+  <div class="form-group">
+    <label for="details_EN">Details</label>
+    <textarea class="form-control" id="details_EN" rows="3" name="details_EN"
+      [(ngModel)]="productToAdd.details_EN"></textarea>
+      <div *ngIf="isValidated && productToAdd.details_EN.length <= 0" class="invalid-data">this field is required!</div>
+  </div>
+  <div class="form-group">
+    <label for="details_AR">Details</label>
+    <textarea class="form-control" id="details_AR" rows="3" name="details_AR"
+      [(ngModel)]="productToAdd.details_AR"></textarea>
+      <div *ngIf="isValidated && productToAdd.details_AR.length <= 0" class="invalid-data">this field is required!</div>
+  </div>
+  <div class="form-group">
+    <label for="price">Price </label>
+    <input type="number" class="form-control" id="price" name="price" [(ngModel)]="productToAdd.price">
+    <div *ngIf="isValidated && productToAdd?.price == null" class="invalid-data">
+      this field is required!
+    </div>
+    <div *ngIf="isValidated && productToAdd.price != null && productToAdd.price <= 0" class="invalid-data">price must be more than zero!</div>
+  </div>
+  <div class="form-group">
+    <label for="quantity">Quantity </label>
+    <input type="number" class="form-control" id="quantity" name="quantity" [(ngModel)]="productToAdd.quantity">
+    <div *ngIf="isValidated && productToAdd.quantity == null" class="invalid-data">this field is required!</div>
+    <div *ngIf="isValidated && productToAdd.quantity != null && productToAdd.quantity <= 0" class="invalid-data">quantity must be more than zero!</div>
+  </div>
+  <div class="form-group">
+    <label for="categoryl">Category</label>
+    <select class="form-control" name="categoryl" id="categoryl" [(ngModel)]="productToAdd.categoryID">
+      <option *ngFor="let category of categoriesList; let i=index" [value]="category.id">
+        {{category.name}}
+      </option>
+    </select>
+    <div class="form-group">
+      <label for="color">Color</label>
+      <select class="form-control" name="color" id="color" [(ngModel)]="productToAdd.color">
+        <option *ngFor="let color of colorArray; let i=index" [value]="(i+1)">
+          {{color}}
+        </option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="images">Product Images</label>
+      <input #imageInput type="file" class="form-control-file" id="images" name="images" multiple accept="image/*" [(ngModel)]="imageInput.files">
+      <div *ngIf="isValidated && imageInput.files?.length === 0" class="invalid-data">this field is required!</div>
+
+    </div>
+
+      <div class="row justify-content-end ">
+        <button type="submit" name="" id="" class="btn btn-dark m-3 p-2 px-4" (click)="AddProduct()">Add</button>
+      </div>
+
+    </div>
+
+
+
+<!-- </form> -->

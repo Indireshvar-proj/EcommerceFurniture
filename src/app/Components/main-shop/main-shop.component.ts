@@ -113,7 +113,7 @@ export class MainShopComponent implements OnInit, OnChanges {
         this.products = response.data;
   
         // ✅ Fix: Prepend API base URL to image paths
-        const baseUrl = environment.APIURL.replace(/\/$/, '') + '/images/';
+        const baseUrl = environment.APIURL.replace(/\/$/, '');
 
         this.products.forEach(product => {
           product.images = product.images.map((img: string) =>

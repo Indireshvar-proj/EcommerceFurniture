@@ -1,0 +1,745 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\bg-img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\bg-img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\bg-img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\bg-img\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\bg-img\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\bg-img\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\bg-img\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\bg-img\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\bg-img\\9.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\bg-img\\cart1.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\cart1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\bg-img\\cart2.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\cart2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\bg-img\\cart3.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\cart3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\blog\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\blog\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\blog\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\blog\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\blog\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\blog\\9.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\blog\\advertising.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\advertising.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\blog\\detail.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\detail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\blog\\user.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\blog\\user1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\user1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\blog\\user2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\user2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\armchair.png",
+      "PackagePath": "staticwebassets\\img\\home\\armchair.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\bed.png",
+      "PackagePath": "staticwebassets\\img\\home\\bed.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\ceiling_fan.png",
+      "PackagePath": "staticwebassets\\img\\home\\ceiling_fan.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\chandelier.png",
+      "PackagePath": "staticwebassets\\img\\home\\chandelier.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\coffee_table.png",
+      "PackagePath": "staticwebassets\\img\\home\\coffee_table.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\cushion.png",
+      "PackagePath": "staticwebassets\\img\\home\\cushion.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\dressing.png",
+      "PackagePath": "staticwebassets\\img\\home\\dressing.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\effect1.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\effect1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\effect10.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\effect10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\effect11.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\effect11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\effect12.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\effect12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\effect13.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\effect13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\effect14.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\effect14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\effect15.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\effect15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\effect16.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\effect16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\effect17.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\effect17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\effect18.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\effect18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\effect19.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\effect19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\effect2.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\effect2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\effect3.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\effect3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\effect4.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\effect4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\effect5.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\effect5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\effect6.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\effect6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\effect7.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\effect7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\effect8.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\effect8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\effect9.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\effect9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\fireplace.png",
+      "PackagePath": "staticwebassets\\img\\home\\fireplace.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\floor_lamp.png",
+      "PackagePath": "staticwebassets\\img\\home\\floor_lamp.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\footer-icon1.png",
+      "PackagePath": "staticwebassets\\img\\home\\footer-icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\footer-icon2.png",
+      "PackagePath": "staticwebassets\\img\\home\\footer-icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\footer-icon3.png",
+      "PackagePath": "staticwebassets\\img\\home\\footer-icon3.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home1-background1.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home1-background1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home1-background2.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home1-background2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home1-background3.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home1-background3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home1-banner1.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home1-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home1-banner2.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home1-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home1-banner3.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home1-banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home1-flas.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home1-flas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home1-flas2.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home1-flas2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home1-flas3.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home1-flas3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home1-flas4.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home1-flas4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home1-policy.png",
+      "PackagePath": "staticwebassets\\img\\home\\home1-policy.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home1-policy2.png",
+      "PackagePath": "staticwebassets\\img\\home\\home1-policy2.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home1-policy3.png",
+      "PackagePath": "staticwebassets\\img\\home\\home1-policy3.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home1-post1.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home1-post1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home1-post2.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home1-post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home1-post3.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home1-post3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home1-tolltip1.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home1-tolltip1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home1-tolltip2.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home1-tolltip2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home1-tolltip3.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home1-tolltip3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home1-tolltip4.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home1-tolltip4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home3-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home3-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home3-banner2.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home3-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home3-banner3.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home3-banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home4-slide1.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home4-slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home4-slide2.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home4-slide2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home4-slide3.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home4-slide3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home4-slide4.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home4-slide4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home4-slide5.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home4-slide5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\home4-slide6.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\home4-slide6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\icon-logo1.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\icon-logo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\icon-logo2.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\icon-logo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\icon-logo3.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\icon-logo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\icon-logo4.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\icon-logo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\icon-logo5.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\icon-logo5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\icon-logo6.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\icon-logo6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\icon-tolltip1.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\icon-tolltip1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\icon-tolltip10.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\icon-tolltip10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\icon-tolltip2.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\icon-tolltip2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\icon-tolltip4.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\icon-tolltip4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\icon-tolltip5.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\icon-tolltip5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\icon-tolltip6.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\icon-tolltip6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\icon-tolltip8.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\icon-tolltip8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\icon-tolltip9.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\icon-tolltip9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\img-menu.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\img-menu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\lg1.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\lg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\lg2.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\lg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\lg3.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\lg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\lg4.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\lg4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\logo-mobie.png",
+      "PackagePath": "staticwebassets\\img\\home\\logo-mobie.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\logo.png",
+      "PackagePath": "staticwebassets\\img\\home\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\map.png",
+      "PackagePath": "staticwebassets\\img\\home\\map.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\note.png",
+      "PackagePath": "staticwebassets\\img\\home\\note.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\ottoman.png",
+      "PackagePath": "staticwebassets\\img\\home\\ottoman.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\payment-footer.png",
+      "PackagePath": "staticwebassets\\img\\home\\payment-footer.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\payment.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\payment.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\payment.png",
+      "PackagePath": "staticwebassets\\img\\home\\payment.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\shelf.png",
+      "PackagePath": "staticwebassets\\img\\home\\shelf.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\sofa.png",
+      "PackagePath": "staticwebassets\\img\\home\\sofa.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\table-lamp.png",
+      "PackagePath": "staticwebassets\\img\\home\\table-lamp.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\vase-flower.png",
+      "PackagePath": "staticwebassets\\img\\home\\vase-flower.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\wardrobe.png",
+      "PackagePath": "staticwebassets\\img\\home\\wardrobe.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\home\\windown.png",
+      "PackagePath": "staticwebassets\\img\\home\\windown.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\other\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\other\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\other\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\other\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\other\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\other\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\other\\4.png",
+      "PackagePath": "staticwebassets\\img\\other\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\other\\after.png",
+      "PackagePath": "staticwebassets\\img\\other\\after.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\other\\background.jpg",
+      "PackagePath": "staticwebassets\\img\\other\\background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\other\\contact_email.png",
+      "PackagePath": "staticwebassets\\img\\other\\contact_email.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\other\\contact_mess.png",
+      "PackagePath": "staticwebassets\\img\\other\\contact_mess.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\other\\image-404.png",
+      "PackagePath": "staticwebassets\\img\\other\\image-404.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\10.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\11.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\12.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\13.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\14.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\15.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\16.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\17.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\18.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\20.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\22.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\23.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\24.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\25.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\26.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\27.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\28.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\29.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\30.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\31.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\32.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\33.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\34.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\9.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\a.png",
+      "PackagePath": "staticwebassets\\img\\product\\a.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\check1.png",
+      "PackagePath": "staticwebassets\\img\\product\\check1.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\check2.png",
+      "PackagePath": "staticwebassets\\img\\product\\check2.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\check3.png",
+      "PackagePath": "staticwebassets\\img\\product\\check3.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\star.png",
+      "PackagePath": "staticwebassets\\img\\product\\star.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\star1.png",
+      "PackagePath": "staticwebassets\\img\\product\\star1.png"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\user1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\user1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\product\\user2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\user2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\products-old\\pro-big-1.jpg",
+      "PackagePath": "staticwebassets\\img\\products-old\\pro-big-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\products-old\\pro-big-2.jpg",
+      "PackagePath": "staticwebassets\\img\\products-old\\pro-big-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\products-old\\pro-big-3.jpg",
+      "PackagePath": "staticwebassets\\img\\products-old\\pro-big-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\products-old\\pro-big-4.jpg",
+      "PackagePath": "staticwebassets\\img\\products-old\\pro-big-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\products-old\\product1.jpg",
+      "PackagePath": "staticwebassets\\img\\products-old\\product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\products-old\\product2.jpg",
+      "PackagePath": "staticwebassets\\img\\products-old\\product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\products-old\\product3.jpg",
+      "PackagePath": "staticwebassets\\img\\products-old\\product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\products-old\\product4.jpg",
+      "PackagePath": "staticwebassets\\img\\products-old\\product4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\products-old\\product5.jpg",
+      "PackagePath": "staticwebassets\\img\\products-old\\product5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\products-old\\product6.jpg",
+      "PackagePath": "staticwebassets\\img\\products-old\\product6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\products\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vindi\\Downloads\\Furnitica-Ecommerce-main\\Furnitica-Ecommerce-main\\DotNetWebAPI\\DotNetWebAPI\\wwwroot\\img\\products\\pro-big-1.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\pro-big-1.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DotNetWebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DotNetWebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DotNetWebAPI.props",
+      "PackagePath": "build\\DotNetWebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DotNetWebAPI.props",
+      "PackagePath": "buildMultiTargeting\\DotNetWebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DotNetWebAPI.props",
+      "PackagePath": "buildTransitive\\DotNetWebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
